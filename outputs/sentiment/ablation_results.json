@@ -1,0 +1,25 @@
+{
+  "baseline": {
+    "model": "LogReg_char",
+    "C": 0.5,
+    "cv_f1": 0.7631,
+    "cv_pr_auc": 0.8591,
+    "holdout_f1": 0.7894,
+    "holdout_pr_auc": 0.8786
+  },
+  "baseline_plus_negativity": {
+    "model": "LogReg_char + negativity",
+    "C": 0.5,
+    "cv_f1": 0.7544,
+    "cv_pr_auc": 0.8557,
+    "holdout_f1": 0.787,
+    "holdout_pr_auc": 0.8765
+  },
+  "delta": {
+    "cv_f1": -0.0087,
+    "cv_pr_auc": -0.0034,
+    "holdout_f1": -0.0024,
+    "holdout_pr_auc": -0.0021
+  },
+  "conclusion": "Agregar negatividad no mejoro el clasificador: F1 disminuyo 0.0087 en CV y 0.0024 en holdout. El deterioro es pequeno, pero consistente; se conserva LogReg_char sin negatividad."
+}

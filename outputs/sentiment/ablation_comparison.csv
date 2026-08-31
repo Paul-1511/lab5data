@@ -1,0 +1,3 @@
+modelo,cv_f1,cv_pr_auc,holdout_f1,holdout_pr_auc
+LogReg_char,0.7631,0.8591,0.7894,0.8786
+LogReg_char + negativity,0.7544,0.8557,0.787,0.8765

@@ -1,0 +1,12 @@
+{
+  "U_statistic": 8192987.5,
+  "p_value": 4.2002196379555126e-33,
+  "n_disaster": 3271,
+  "n_other": 4342,
+  "rank_biserial_r": 0.1537,
+  "effect_size_label": "pequeno",
+  "median_neg_disaster": 0.157,
+  "median_neg_other": 0.095,
+  "mean_neg_disaster": 0.1727,
+  "mean_neg_other": 0.1305
+}

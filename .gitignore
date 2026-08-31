@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.env
+.venv/
+*.tmp
+*.joblib
+.DS_Store
+Thumbs.db
+GUIA_REPLICACION_LAB5.md

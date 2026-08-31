@@ -1,0 +1,9 @@
+{
+  "f1_disaster": 0.7894,
+  "precision": 0.8057,
+  "recall": 0.7737,
+  "accuracy": 0.8227,
+  "f1_macro": 0.8182,
+  "pr_auc": 0.8786,
+  "roc_auc": 0.8784
+}

@@ -1,0 +1,24 @@
+{
+  "seed": 42,
+  "artifacts": [
+    "outputs\\eda\\bigramas_by_class.png",
+    "outputs\\eda\\disaster_rate_by_keyword.png",
+    "outputs\\eda\\feature_counts_by_target.png",
+    "outputs\\eda\\keyword_top30.png",
+    "outputs\\eda\\manifest.json",
+    "outputs\\eda\\missing_values.png",
+    "outputs\\eda\\tables\\bigrams_by_class.csv",
+    "outputs\\eda\\tables\\contradictory_labels.csv",
+    "outputs\\eda\\tables\\disaster_rate_by_keyword.csv",
+    "outputs\\eda\\tables\\duplicate_audit.csv",
+    "outputs\\eda\\tables\\trigrams_by_class.csv",
+    "outputs\\eda\\tables\\unigrams_by_class.csv",
+    "outputs\\eda\\target_distribution.png",
+    "outputs\\eda\\text_length_by_target.png",
+    "outputs\\eda\\top_locations.png",
+    "outputs\\eda\\trigramas_by_class.png",
+    "outputs\\eda\\unigramas_by_class.png",
+    "outputs\\eda\\wordcloud_target0.png",
+    "outputs\\eda\\wordcloud_target1.png"
+  ]
+}

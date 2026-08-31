@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "n_dev": 6090,
+  "n_holdout": 1523,
+  "dev_target": {
+    "0": 3473,
+    "1": 2617
+  },
+  "holdout_target": {
+    "0": 869,
+    "1": 654
+  },
+  "n_groups_dev": 6003,
+  "n_groups_holdout": 1499,
+  "shared_groups": 0
+}
